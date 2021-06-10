@@ -1,0 +1,6 @@
+vmware
+vm name : Windows Server 2019
+
+C:\Users\Bote\Documents\Virtual Machines\Windows Server 2019
+Full Name : Bote
+pw : chikoro!21
